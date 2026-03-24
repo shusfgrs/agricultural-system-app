@@ -14,6 +14,9 @@
 <img width="498" height="719" alt="ed30a3fc12d728c1316ea626ea33f498" src="https://github.com/user-attachments/assets/1c00dbb2-1e0c-4b50-9541-69360168be04" />
 <img width="468" height="713" alt="425b2ef3f0cd597bb358526accf74efd" src="https://github.com/user-attachments/assets/4330418c-8b47-4bd7-99a0-1463bf409ec0" />
 
+## 贡献者
+- [@jxylisty](https://github.com/jxylisty)（初版）
+
 ### 主要功能
 
 | 功能模块 | 描述 |

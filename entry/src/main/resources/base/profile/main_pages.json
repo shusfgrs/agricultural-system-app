@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/IrrigationPage",
+    "pages/LightPage",
+    "pages/AlertPage",
+    "pages/DevicePage",
+    "pages/DataPage"
+  ]
+}

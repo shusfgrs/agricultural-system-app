@@ -8,6 +8,12 @@
 - **HarmonyOS APP**：运行在手机/平板上的控制应用
 - **ESP32 固件**：运行在硬件设备上的传感器数据采集与控制程序
 
+![ea674a3f5155d3347a7e8c3ed7d5a312](https://github.com/user-attachments/assets/81b7543b-d5a2-4bc1-abf8-158b1162819d)
+<img width="383" height="692" alt="4138c8fa3609975b3b83526cba2b68c5" src="https://github.com/user-attachments/assets/56a97de4-4d9e-49c2-92ed-af47771b47f9" />
+<img width="392" height="715" alt="96c50fc288477897d1cdf04a306d95b5" src="https://github.com/user-attachments/assets/6d03725a-7f92-416a-bfb4-acfc2d0c5dc0" />
+<img width="498" height="719" alt="ed30a3fc12d728c1316ea626ea33f498" src="https://github.com/user-attachments/assets/1c00dbb2-1e0c-4b50-9541-69360168be04" />
+<img width="468" height="713" alt="425b2ef3f0cd597bb358526accf74efd" src="https://github.com/user-attachments/assets/4330418c-8b47-4bd7-99a0-1463bf409ec0" />
+
 ### 主要功能
 
 | 功能模块 | 描述 |
